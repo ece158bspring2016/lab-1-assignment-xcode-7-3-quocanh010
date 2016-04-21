@@ -57,7 +57,7 @@
                                 <rect key="frame" x="0.0" y="92" width="375" height="60"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="YGF-Rg-dme" id="WfE-0m-7ZI">
-                                    <rect key="frame" x="0.0" y="0.0" width="342" height="60"/>
+                                    <rect key="frame" x="0.0" y="0.0" width="342" height="59.5"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <stackView opaque="NO" contentMode="scaleToFill" distribution="equalSpacing" alignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="6tb-kO-jqC">
@@ -83,7 +83,7 @@
                                                         <constraint firstItem="zqS-bB-o6x" firstAttribute="top" secondItem="Qgi-wo-Amz" secondAttribute="bottom" id="Uiw-5C-ATd"/>
                                                     </constraints>
                                                 </stackView>
-                                                <imageView userInteractionEnabled="NO" tag="102" contentMode="center" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="52X-sx-1eP">
+                                                <imageView userInteractionEnabled="NO" tag="102" contentMode="center" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="52X-sx-1eP">
                                                     <rect key="frame" x="45" y="0.0" width="81" height="44"/>
                                                     <constraints>
                                                         <constraint firstAttribute="width" constant="81" id="SUy-Fl-XJu"/>
